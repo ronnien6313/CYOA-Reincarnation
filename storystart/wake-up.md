@@ -1,6 +1,6 @@
 # Wake Up
 You have to wake up for work, What do you do?
 
-[Sleep in]()
+[Sleep in](fired.md)
 
-[Go to Work]()
+[Go to Work](traffic-light.md)
