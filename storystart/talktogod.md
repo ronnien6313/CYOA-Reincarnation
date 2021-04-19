@@ -1,5 +1,5 @@
 # Two Choices 
-God he gave you two choices 
+God gave you two choices 
 
 [Get reincarnated as geico the lizard] (reincarnatedgeico.md)
 
