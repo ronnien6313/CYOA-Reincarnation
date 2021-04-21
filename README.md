@@ -1,6 +1,6 @@
 # Choose Your Own Adventure Project
 
-The purpose of this project is to make your own story.
+The purpose of this project is to create a "Choose Your Own Adventure" game where you can choose your own path and story.
 
 Click [here](https://github.com/ronnien6313/CYOA-Adventure/blob/main/wake-up.md) to start!
 
